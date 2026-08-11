@@ -4,7 +4,7 @@ const student={
 };
 
 function getKeys(obj) {
-	return Object.keys(obj);
+	retuen Object.keys(obj);
 }
 console.log(getKeys(student));
 	
